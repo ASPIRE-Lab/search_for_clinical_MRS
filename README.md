@@ -1,6 +1,6 @@
 # Semi-automated Database Search Pipeline for Clinical MRS Research Papers and Journals
 
-The semi-automated database search pipeline enables users to identify journals publishing clinical MRS research papers, as well as the papers themselves. Especially useful for identifying and exporting information pertaining to individual research papers on the topic of in vivo magnetic resonance spectroscopy (MRS) that have been published in clinical journals. May also be used to identify those clinical journals most actively publishing in vivo MRS research during a given time period. Data optionally exported as csv file after each session. This search pipeline provides the advanced search query in the format used by Clarivate's Journal Citation Reports (JCR) and Web of Science (WOS). 
+The [semi-automated database search pipeline](https://github.com/ASPIRE-Lab/search_for_clinical_MRS/blob/main/PIPELINE.md) enables users to identify journals publishing clinical MRS research papers, as well as the papers themselves. Especially useful for identifying and exporting information pertaining to individual research papers on the topic of in vivo magnetic resonance spectroscopy (MRS) that have been published in clinical journals. May also be used to identify those clinical journals most actively publishing in vivo MRS research during a given time period. Data optionally exported as csv file after each session. This search pipeline provides the advanced search query in the format used by Clarivate's Journal Citation Reports (JCR) and Web of Science (WOS). 
 
 ### Features
 
